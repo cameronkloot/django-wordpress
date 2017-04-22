@@ -1,5 +1,9 @@
 # Changelog for django-wordpress
 
+## 0.10.2
+
+* update IP field type
+
 ## 0.10.1
 
 * fix issue where attachment view refered to old parent model field
